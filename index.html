@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Bangiss44 Digital Services</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <style>
+    body {
+      font-family: 'Poppins', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #086954;
+    }
+    header {
+      background-color: #092a13;
+      color: white;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    nav {
+      background: #34495e;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    nav a:hover {
+      color: #1a023f;
+    }
+    .hero {
+      background: url('hero-image.jpg') no-repeat center center/cover;
+      color: white;
+      padding: 100px 20px;
+      text-align: center;
+    }
+    .hero h1 {
+      font-size: 48px;
+    }
+    .hero p {
+      font-size: 24px;
+    }
+    .services {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      padding: 40px 20px;
+    }
+    .service-card {
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      margin: 20px;
+      padding: 20px;
+      width: 300px;
+      text-align: center;
+    }
+    .service-card i {
+      font-size: 40px;
+      color: #2c3e50;
+      margin-bottom: 10px;
+    }
+    footer {
+      background-color: #2c3e50;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Bangiss44 Digital Services</h1>
+    <p>We offer smart digital solutions for your business</p>
+  </header>
+
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#services">All Services</a>
+    <a href="account">Wallet</a>
+    <a href="#about">About Us</a>
+    <a href="#contact">Contact<link rel="stylesheet" href="Email: info@bangiss44.com"></a>
+  </nav>
+
+  <section class="hero" id="home">
+    <h1>Welcome to Bangiss44</h1>
+    <p>Professional digital services that grow your brand online.</p>
+  </section>
+
+  <section class="services" id="services">
+    <div class="service-card">
+      <i class="fas fa-laptop-code"></i>
+      <h3>JAMB Reprint</h3>
+      <p>All Reprint Without Payment (300)</p>
+      <img src="jamb.png" alt="jamb pix"width = 300pix>
+    </div>
+    <div class="service-card">
+      <i class="fas fa-laptop-code"></i>
+      <h3>JAMB Admission Letter</h3>
+      <p>Jamb Admission Letter With payment (1500)</p>
+      <img src="jamb.png" alt="jamb pix"width = 300pix>
+    </div>
+    <div class="service-card">
+      <i class="fas fa-laptop-code"></i>
+      <h3>JAMB O'Upload Upload</h3>
+      <p>UTME O'Level Upload (400) </p>
+      <img src="jamb.png" alt="jamb pix"width = 300pix>
+    </div>
+    <div class="service-card">
+      <i class="fas fa-laptop-code"></i>
+      <h3>JAMB Retrieve Profile Code</h3>
+      <p>Retrieve profile Code (200)</p>
+      <img src="jamb.png" alt="jamb pix"width = 300pix>
+    </div>
+    <div class="service-card">
+      <i class="fas fa-laptop-code"></i>
+      <h3>JAMB Original Result</h3>
+      <p>Original Jamb Result With payment (2000)</p>
+      <img src="jamb.png" alt="jamb pix"width = 300pix>
+    </div>
+    <div class="service-card">
+      <i class="fas fa-laptop-code"></i>
+      <h3>JAMB Caps Link</h3>
+      <p>JAMB Caps URl (500)</p>
+      <img src="jamb.png" alt="jamb pix"width = 300pix>
+    </div>
+    <div class="service-card">
+      <i class="fas fa-laptop-code"></i>
+      <h3>JAMB Check Admission Status</h3>
+      <p>JAMB Caps Screenshort (300)</p>
+      <img src="jamb.png" alt="jamb pix"width = 300pix>
+    </div>
+    <div class="service-card">
+      <i class="fas fa-laptop-code"></i>
+      <h3>JAMB Retrieve Registration Number </h3>
+      <p>Retrieve Jamb Registration Number (300)</p>
+      <img src="jamb.png" alt="jamb pix"width = 300pix>
+    </div>
+    <div class="service-card">
+      <i class="fas fa-laptop-code"></i>
+      <h3>JAMB Others Services </h3>
+      <p>Others Services Without Payment (300)</p>
+      <img src="jamb.png" alt="jamb pix"width = 300pix>
+    </div>
+    <section class="services" id="services">
+        
+
+        
+
+  </section>  
+  <footer>
+    <p>&copy; 2025 Bangiss44 Digital Services. All rights reserved.<p>
+        </p>Email: info@bangiss44.com</p>
+        <P>Phone Number +2347037755280</P>
+    
+  </footer>
+</body>
+</html>
+
